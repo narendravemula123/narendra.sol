@@ -1,5 +1,6 @@
 #Project title
 Bitcoin
+
 #Solidity
 REQUIREMENTS
     1. Your contract will have public variables that store the details about your coin (Token Name, Token Abbrv., Total Supply)
@@ -12,7 +13,9 @@ REQUIREMENTS
        and from the balance of the “sender”.
     5. Lastly, your burn function should have conditionals to make sure the balance of "sender" is greater than or equal 
        to the amount that is supposed to be burned.
+       
 #Description
 This project is a basic implementation of an Ethereum smart contract for a custom token name "Bitcoin" with the abbreviation "Bit".It allows for the creation and destruction of tokens ,and keeps track of each addres's token balance.
+
 #Author
 vemula narendra
